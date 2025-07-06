@@ -26,7 +26,9 @@ header img{
     text-align: center;
     padding: 50px;
 }
-
+h1{
+    text-align: center;
+}
 footer img{
     width: 40px;
     height: 40px;
