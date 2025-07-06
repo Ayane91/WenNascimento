@@ -2,6 +2,7 @@ body{
     background-color: black;
     color: whitesmoke;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px 50px;
 }
 
 ul{
@@ -48,8 +49,4 @@ footer a{
 
 footer p{
     margin-top: 8px;
-}
-
-.conteiner{
-    padding: 0px 50px;
 }
